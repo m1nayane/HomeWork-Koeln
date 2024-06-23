@@ -1,0 +1,60 @@
+
+
+.Koeln{
+    padding: 0px;
+    margin: 0px;
+    color: rgb(158, 80, 35);
+    font-size: 20px;
+    border: inset 5px;
+    border-radius: 20px;
+    background-color: rgb(230, 177, 150);
+    text-align: center;
+}
+ 
+.kartinki{
+    border: solid 2px;
+}
+
+.opisanie1{
+ background-color: rgb(233, 186, 132);
+}
+
+.Klimat{
+    padding: 0px;
+    margin: 0px;
+    color: rgb(158, 80, 35);
+    border: inset 5px;
+    border-radius: 20px;
+    background-color: rgb(230, 177, 150);
+    text-align: center;
+}
+
+.opisanie2{
+    background-color: rgb(233, 186, 132);
+}
+
+.tabl{
+    background-color: rgb(217, 209, 209);
+    height: 100px;
+    width: auto;
+    margin: auto;
+   }
+
+.naselenie{
+    color: rgb(158, 80, 35);
+    border: inset 5px;
+    border-radius: 20px;
+    background-color: rgb(230, 177, 150);
+    text-align: center; 
+}
+
+.opisanie3 {
+    background-color: rgb(233, 186, 132);
+}
+
+.tablnas{
+    background-color: rgb(217, 209, 209);
+    height: 100px;
+    width: auto;
+    margin: auto;
+}
